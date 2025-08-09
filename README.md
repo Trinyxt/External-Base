@@ -14,7 +14,7 @@ This Is An Undetected External Roblox base.
 
 **Discord Users**  
 - `Github: paysonism` → Kernel Driver
-- `@trinyxt` → Coder
+- `Discord: @trinyxt` → Coder
   
   https://github.com/paysonism/
 
