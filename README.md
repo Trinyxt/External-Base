@@ -13,9 +13,10 @@ This Is An Undetected External Roblox base.
 ## Credits
 
 **Discord Users**  
-- `@kitodoescode` → Guide/code snippets
+- `@paysonism` → Kernel Driver
 - `@trinyxt` → Coder
-https://github.com/paysonism/
+  
+  https://github.com/paysonism/
 
 ---
 
