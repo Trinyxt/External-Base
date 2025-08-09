@@ -13,7 +13,7 @@ This Is An Undetected External Roblox base.
 ## Credits
 
 **Discord Users**  
-- `@paysonism` → Kernel Driver
+- `Github: paysonism` → Kernel Driver
 - `@trinyxt` → Coder
   
   https://github.com/paysonism/
