@@ -3,9 +3,19 @@ This Is An Undetected External Roblox base.
 
 
 ## Info
-- Driver
+- Kernel Driver (github.com/paysonism/payson-ioctl-cheat-driver)
 - Updated for `version-225e87fdb7254f64`
 - WalkSpeed Changer
+
+---
+
+
+## Credits
+
+**Discord Users**  
+- `@kitodoescode` → Guide/code snippets
+- `@trinyxt` → Coder
+https://github.com/paysonism/
 
 ---
 
