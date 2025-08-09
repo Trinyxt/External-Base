@@ -21,3 +21,5 @@ This Is An Undetected External Roblox base.
 ---
 
 - **Use a mapper like kdmapper to load the driver**
+
+# See license
