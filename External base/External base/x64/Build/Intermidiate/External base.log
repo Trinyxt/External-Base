@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\ddraw.h(41,17): warning C4005: 'CO_E_NOTINITIALIZED': macro redefinition
+  (compiling source file 'src/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(32019,9):
+      see previous definition of 'CO_E_NOTINITIALIZED'
+  
+C:\Users\trinyxt\source\repos\External base\External base\src\main.cpp(86,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 253 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+C:\Users\trinyxt\source\repos\External base\External base\src\main.cpp(62): warning C4715: 'Driver': not all control paths return a value
+  Finished generating code
+  External base.vcxproj -> C:\Users\trinyxt\source\repos\External base\Build\External-base.exe
